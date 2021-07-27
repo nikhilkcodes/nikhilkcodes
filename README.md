@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikhilkcodes
+- 👀 I’m interested in c/c++ linux,webdevelopment,cloud computing,penetration testing.
+- 🌱 I’m currently learning c++
+- 📫 you can reach me on linkedin link : https://www.linkedin.com/in/nikhil-singh-4678971b8/ 
