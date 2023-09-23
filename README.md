@@ -15,15 +15,12 @@
 
 - 📫 How to reach me **nikhilsingh.cc@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mainikhilhun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mainikhilhun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-singh-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-singh-in" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/slangger8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/slangger8/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/slangger8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/slangger8?hr_r=1" height="30" width="40" /></a>
 <a href="/https://rss.app/feeds/ij4zqtockjdsslfr.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/ij4zqtockjdsslfr.xml" height="30" width="40" /></a>
 </p>
 
