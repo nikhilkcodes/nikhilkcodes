@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mainikhilhun" target="blank"><img src="https://img.shields.io/twitter/follow/mainikhilhun?logo=twitter&style=for-the-badge" alt="mainikhilhun" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning ** DSA & MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhilkcodes?tab=repositories](https://github.com/nikhilkcodes?tab=repositories)
 
